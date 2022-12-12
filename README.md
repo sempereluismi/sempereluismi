@@ -6,11 +6,11 @@
 
 
 
-<picture> <img align="right" src="https://raw.githubusercontent.com/sempereluismi/sempereluismi/master/assets/about.gif" width = 300px></picture>
+<picture> <img align="right" src="https://raw.githubusercontent.com/sempereluismi/sempereluismi/master/assets/patito.gif" width = 300px></picture>
 	
 
 
-## <div style="display: flex; gap: 0.5rem;"> <img src="https://raw.githubusercontent.com/sempereluismi/sempereluismi/master/assets/aboutme.gif" width ="25"><b> Sobre mi </b> </div>
+## <div style="display: flex; gap: 0.5rem;"> <img src="https://raw.githubusercontent.com/sempereluismi/sempereluismi/master/assets/carpeta.gif" width ="25"><b> Sobre mi </b> </div>
 
 
 <br>
