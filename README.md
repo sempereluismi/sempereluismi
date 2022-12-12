@@ -6,11 +6,11 @@
 
 
 
-<picture> <img align="right" src="https://raw.githubusercontent.com/sempereluismi/sempereluismi/master/asstes/about.gif" width = 300px></picture>
+<picture> <img align="right" src="https://raw.githubusercontent.com/sempereluismi/sempereluismi/master/assts/about.gif" width = 300px></picture>
 	
 
 
-## <div style="display: flex; gap: 0.5rem;"> <img src="https://raw.githubusercontent.com/sempereluismi/sempereluismi/master/asstes/aboutme.gif" width ="25"><b> Sobre mi </b> </div>
+## <div style="display: flex; gap: 0.5rem;"> <img src="https://raw.githubusercontent.com/sempereluismi/sempereluismi/master/assts/aboutme.gif" width ="25"><b> Sobre mi </b> </div>
 
 
 <br>
@@ -95,6 +95,3 @@
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-# sempereluismi
