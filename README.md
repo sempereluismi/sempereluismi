@@ -49,7 +49,8 @@
 
 <br>
 
-- **Back-End Development**
+- **Back-End Development**:
+  
   ![PHP](https://img.shields.io/badge/PHP%20-%23F7DF1E.svg?style=for-the-badge&logo=php&logoColor=white&color=7a86b8)
   ![NextJS](https://img.shields.io/badge/NextJS%20-%23F7DF1E.svg?style=for-the-badge&logo=Next.js&logoColor=white&color=black)
   ![Express](https://img.shields.io/badge/Express%20-%23F7DF1E.svg?style=for-the-badge&logo=Express&logoColor=white&color=black)
