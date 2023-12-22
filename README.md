@@ -40,11 +40,21 @@
     
 - **Front-End Development**:
 
-    ![VueJS](https://img.shields.io/badge/Vue.js-38B27B?style=for-the-badge&logo=vuedotjs&logoColor=white)
+   ![VueJS](https://img.shields.io/badge/Vue.js-38B27B?style=for-the-badge&logo=vuedotjs&logoColor=white)
+   ![ReactJS](https://img.shields.io/badge/ReactJS%20-%23F7DF1E.svg?style=for-the-badge&logo=React&logoColor=white&color=43c6f7)
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
+
+<br>
+
+- **Back-End Development**
+  ![PHP](https://img.shields.io/badge/PHP%20-%23F7DF1E.svg?style=for-the-badge&logo=php&logoColor=white&color=7a86b8)
+  ![NextJS](https://img.shields.io/badge/NextJS%20-%23F7DF1E.svg?style=for-the-badge&logo=Next.js&logoColor=white&color=black)
+  ![Express](https://img.shields.io/badge/Express%20-%23F7DF1E.svg?style=for-the-badge&logo=Express&logoColor=white&color=black)
+  
+  
 
 <br>
 
