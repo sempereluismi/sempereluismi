@@ -24,44 +24,71 @@
 <br>
 <h2 align="left">⚡ My stack:</h2>
 
-<h3 align="left">🎨 Frontend: Crafting smooth, user-friendly interfaces.</h3>
+### 
 
-<div style="margin-left: 20px; margin-bottom: 30px;">
-  <h4>JavaScript Frameworks ⚛️</h4>
-  <div style="display: flex; gap: 12px; margin-top: 5px;">
-    <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo" />
-    <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
-    <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo" />
-  </div>
+<h3 align="left">💻 Frontend: Crafting smooth, user-friendly interfaces.</h3>
+<table>
+  <tr>
+    <td valign="top" width="70%">
+      <div>
+        <h4>JavaScript Frameworks ⚛️</h4>
+      </div>
+      <div style="margin-top:5px;margin-left:20px;">
+        <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo" /><img width="8" />
+        <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" /><img width="8" />
+        <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo" />
+      </div>
+    </td>
+    <td valign="top">
+      <div align="center">
+        <h4>CSS & Styling 🎨</h4>
+      </div>
+      <div align="right" style="margin-top:5px;">
+        <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
+        <img width="8" />
+        <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
+        <img width="8" />
+        <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
+      </div>
+    </td>
+  </tr>
+</table>
 
-  <h4 style="margin-top: 20px;">CSS & Styling 🎨</h4>
-  <div style="display: flex; gap: 12px; margin-top: 5px;">
-    <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
-    <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
-    <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
-  </div>
-</div>
+
+###
 
 <h3 align="left">🔧 Backend: Where the behind-the-scenes magic happens.</h3>
-
-<div style="margin-left: 20px; margin-bottom: 30px;">
-  <h4>APIs ⚙️</h4>
-  <div style="display: flex; gap: 12px; margin-top: 5px;">
-    <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
-    <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
-    <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" />
-    <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
-    <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" />
-  </div>
-
-  <h4 style="margin-top: 20px;">Databases 🗄️</h4>
-  <div style="display: flex; gap: 12px; margin-top: 5px;">
-    <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo" />
-    <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
-    <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
-  </div>
-</div>
-
+<table>
+  <tr>
+    <td valign="top" width="70%">
+      <div style="margin-left:93px;">
+        <h4>APIs ⚙️</h4>
+      </div>
+      <div align="center" style="text-align:left; margin-top:5px;">
+        <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
+        <img width="8" />
+        <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
+        <img width="8" />
+        <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" />
+        <img width="8" />
+        <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
+        <img src="https://skillicons.dev/icons?i=django" height="40" alt="express logo" />
+      </div>
+    </td>
+    <td valign="top">
+      <div align="center">
+        <h4>Databases 🗄️</h4>
+      </div>
+      <div align="right" style="margin-top:5px;">
+        <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo" />
+        <img width="8" />
+        <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
+        <img width="8" />
+        <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ###
 
